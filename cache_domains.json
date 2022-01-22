@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "netflix",
+			"description": "CDN for netflix",
+			"domain_files": ["netflix.txt"]
 		}
 	]
 }
